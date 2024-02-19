@@ -1,3 +1,4 @@
+
 # Education and Skills
 ### B.S. Statistics and Data Science - UC Davis
 •	<b>Programming</b> in Python, R, C++ <br>
@@ -33,5 +34,15 @@ An interactive dashboard web app built with Plotly Dash that displays real-time 
 
 ### Marilyn Monroe: [Repo Link](https://github.com/mbluck/Shot-Marilyn)
 A web app built with Streamlit for a data-based interpretation of Andy Warhol's "Shot Marilyn" using the color data of the images. 
+
+# Links
+### [Github](https://github.com/mbluck) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+
+### [LinkedIn](https://www.linkedin.com/in/melanie-bluck-532850162/)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+### [Email](mailto:m.bluck1@gmail.com) 
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
