@@ -2,3 +2,4 @@ title: Melanie Bluck
 logo: me.png
 description: Data Analytics and Business Intelligence<br> [Github](https://github.com/mbluck/mbluck) <br>[LinkedIn](https://www.linkedin.com/in/melanie-bluck-532850162/) <br>[Email](mailto:m.bluck1@gmail.com)  <br>
 theme: jekyll-theme-minimal
+plugins: jekyll-relative-links
