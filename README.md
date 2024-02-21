@@ -1,4 +1,14 @@
 
+# Links
+### [Github](https://github.com/mbluck) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+
+### [LinkedIn](https://www.linkedin.com/in/melanie-bluck-532850162/)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+### [Email](mailto:m.bluck1@gmail.com) 
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 # Education and Skills
 ### B.S. Statistics and Data Science - UC Davis
 •	<b>Programming</b> in Python, R, C++ <br>
@@ -24,6 +34,9 @@ This interactive Tableau dashboard visualizes San Francisco traffic stop data. <
 [View on Tableau Public](https://public.tableau.com/app/profile/melanie.bluck/viz/SanFranciscoPoliceStops/Dashboard1) <br>
 [View without interactivity as PDF](https://drive.google.com/file/d/1IQrV1FWK_UjOSHBSr77zKWdY8ODJqGGm/view?usp=sharing)
 
+### Selected Academic Works
+[View in Google Drive](https://drive.google.com/drive/folders/1Js_5jehliK_sMvjC0lJz-mvbtEyzzMyg?usp=drive_link)
+
 ## Works in Progress
 
 ### Housing Location Analysis: [Repo Link](https://github.com/mbluck/Housing-Location-Analysis)
@@ -35,14 +48,6 @@ An interactive dashboard web app built with Plotly Dash that displays real-time 
 ### Marilyn Monroe: [Repo Link](https://github.com/mbluck/Shot-Marilyn)
 A web app built with Streamlit for a data-based interpretation of Andy Warhol's "Shot Marilyn" using the color data of the images. 
 
-# Links
-### [Github](https://github.com/mbluck) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
-### [LinkedIn](https://www.linkedin.com/in/melanie-bluck-532850162/)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-### [Email](mailto:m.bluck1@gmail.com) 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
