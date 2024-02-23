@@ -30,11 +30,17 @@
 
 # Projects
 ### Traffic Stops Dashboard
-This interactive Tableau dashboard visualizes San Francisco traffic stop data. <br>
+An interactive Tableau dashboard which shows demographic and location data in relation to the traffic stops conducted by San Francisco police. Reveals key differences in outcomes between different neighborhoods and different stop reasons. <br>
 [View on Tableau Public](https://public.tableau.com/app/profile/melanie.bluck/viz/SanFranciscoPoliceStops/Dashboard1) <br>
 [View without interactivity as PDF](https://drive.google.com/file/d/1IQrV1FWK_UjOSHBSr77zKWdY8ODJqGGm/view?usp=sharing)
 
-### Selected Academic Works
+## Selected Academic Works
+#### Predicting Student Dropouts in Higher Education
+Compares the accuracy and computational efficiency of different machine learning classification models for predicting which students would drop out of university, including logistic regression, SVM, and random foresting. Discusses the affects of using different matrix decomposition and convergence methods on algorithm efficiency. Constructs a model that predicts whether a student will drop out with 88% accuracy and optimal efficiency using logistic regression with gradient descent. <br>
+[View in Google Drive](https://drive.google.com/drive/folders/1Js_5jehliK_sMvjC0lJz-mvbtEyzzMyg?usp=drive_link)
+
+#### Image Analysis
+Compared the different “Shot Marilyn” paintings using various image analysis techniques, including image segmentation by clustering and several detailed visualizations. Reveals similarities and differences between image components in the context of art interpretation. <br>
 [View in Google Drive](https://drive.google.com/drive/folders/1Js_5jehliK_sMvjC0lJz-mvbtEyzzMyg?usp=drive_link)
 
 ## Works in Progress
