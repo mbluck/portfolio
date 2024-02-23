@@ -19,7 +19,7 @@
 •	<b>Technical Writing</b> and results communication
 
 # Experience
-### IT Support Assistant - NetCE
+### IT Support Assistant - TRC Healthcare
 •	Provisioned <b>VMWare</b> virtual machines and configured workstations <br>
 • <b>Administered user accounts</b> through Windows, Azure, and Google <br>
 • Provided <b>technical support</b> and troubleshooting <br>
