@@ -41,22 +41,10 @@ The data is updated daily.<br>
 [View Dashboard Online](https://stocks-by-sector-dc190b45069c.herokuapp.com/) <br>
 [Repo Link](https://github.com/mbluck/Stocks-by-Sector-Analysis)
 
-## Selected Academic Works
-#### Predicting Student Dropouts in Higher Education
-Compares the accuracy and computational efficiency of different machine learning classification models for predicting which students would drop out of university, including logistic regression, SVM, and random foresting. Discusses the affects of using different matrix decomposition and convergence methods on algorithm efficiency. Constructs a model that predicts whether a student will drop out with 88% accuracy and optimal efficiency using logistic regression with gradient descent. <br>
-[View in Google Drive](https://drive.google.com/drive/folders/1Js_5jehliK_sMvjC0lJz-mvbtEyzzMyg?usp=drive_link)
-
-#### Image Analysis
-Compared the different “Shot Marilyn” paintings using various image analysis techniques, including image segmentation by clustering and several detailed visualizations. Reveals similarities and differences between image components in the context of art interpretation. <br>
-[View in Google Drive](https://drive.google.com/drive/folders/1Js_5jehliK_sMvjC0lJz-mvbtEyzzMyg?usp=drive_link)
-
-## Works in Progress
-
-### Housing Location Analysis: [Repo Link](https://github.com/mbluck/Housing-Location-Analysis)
-An analysis of the effect that a house's proximity to other locations of interest (parks, schools, etc.) has on its price. Data obtained through webscraping and geocoding API, and analyzed via regression.
-
-### Marilyn Monroe: [Repo Link](https://github.com/mbluck/Shot-Marilyn)
-A web app built with Streamlit for a data-based interpretation of Andy Warhol's "Shot Marilyn" using the color data of the images. 
+## Work in Progress:
+#### Predicting College Dropouts
+Comparing the performance of logistic regression and XGBoost in predicting which university students will dropout. <br>
+[Repo Link](https://github.com/mbluck/College-Dropout-Prediction)
 
 
 
