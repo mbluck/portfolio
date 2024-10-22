@@ -29,6 +29,7 @@
 
 
 # Projects
+## Data Analysis
 ### Traffic Stops Dashboard
 An interactive Tableau dashboard which shows demographic and location data in relation to the traffic stops conducted by San Francisco police. Reveals key differences in outcomes between different neighborhoods and different stop reasons. <br>
 [View on Tableau Public](https://public.tableau.com/app/profile/melanie.bluck/viz/SanFranciscoPoliceStops/Dashboard1) <br>
@@ -41,7 +42,7 @@ The data is updated daily.<br>
 [View Dashboard Online](https://stocks-by-sector-dc190b45069c.herokuapp.com/) <br>
 [Repo Link](https://github.com/mbluck/Stocks-by-Sector-Analysis)
 
-## Work in Progress:
+## Machine Learning
 #### Predicting College Dropouts
 Comparing the performance of logistic regression and XGBoost in predicting which university students will dropout. <br>
 [Repo Link](https://github.com/mbluck/College-Dropout-Prediction)
