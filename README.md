@@ -44,7 +44,7 @@ The data is updated daily.<br>
 
 ## Machine Learning
 #### Predicting College Dropouts
-Comparing the performance of logistic regression and XGBoost in predicting which university students will dropout. <br>
+Predicting which college students will dropout based on demographic and academic factors. Builds a logistic regression model to predict future dropouts with 87% accuracy and well-generalized fit.  <br>
 [Repo Link](https://github.com/mbluck/College-Dropout-Prediction)
 
 
