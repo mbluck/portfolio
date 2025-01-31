@@ -45,13 +45,13 @@ The data is updated daily.<br>
 ## Machine Learning
 #### Predicting College Dropouts
 Predicting which college students will dropout based on demographic and academic factors. Builds a logistic regression model to predict future dropouts with 87% accuracy and well-generalized fit.  <br>
-A PowerBI dashboard displays key model metrics.
+A PowerBI dashboard displays key model metrics.<br>
 [View without interactivity as PDF](https://drive.google.com/file/d/1raiUA-uuL-AJsSx94bQ8oe9silbc7woQ/view?usp=sharing) For larger view, download and open via Acrobat.
 [Repo Link](https://github.com/mbluck/College-Dropout-Prediction)
 
 #### Work in progress: Futures Price Forecast
 Forecasting future prices for agricultural commodity futures to inform optimal trades. <br>
-Includes a simulation which automatically trades contracts and determines probable real life profit margins. 
+Includes a simulation which automatically trades contracts and determines probable real life profit margins. <br>
 [Repo Link](https://github.com/mbluck/Futures-Price-Forecast)
 
 
