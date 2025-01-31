@@ -33,7 +33,7 @@
 ### Traffic Stops Dashboard
 An interactive Tableau dashboard which shows demographic and location data in relation to the traffic stops conducted by San Francisco police. Reveals key differences in outcomes between different neighborhoods and different stop reasons. <br>
 [View on Tableau Public](https://public.tableau.com/app/profile/melanie.bluck/viz/SanFranciscoPoliceStops/Dashboard1) <br>
-[View without interactivity as PDF](https://drive.google.com/file/d/1IQrV1FWK_UjOSHBSr77zKWdY8ODJqGGm/view?usp=sharing) For larger view, download and open via Acrobat.
+[View without interactivity as PDF](https://drive.google.com/file/d/1IQrV1FWK_UjOSHBSr77zKWdY8ODJqGGm/view?usp=sharing) (For larger view, download and open via Acrobat) <br>
 
 ### Stocks by Sector Web App
 An interactive dashboard web app built with Plotly Dash that displays stock data aggregated across sectors. Quickly compare sectors against each other, an interface not available on Yahoo Finance. <br>
@@ -46,7 +46,7 @@ The data is updated daily.<br>
 #### Predicting College Dropouts
 Predicting which college students will dropout based on demographic and academic factors. Builds a logistic regression model to predict future dropouts with 87% accuracy and well-generalized fit.  <br>
 A PowerBI dashboard displays key model metrics.<br>
-[View without interactivity as PDF](https://drive.google.com/file/d/1raiUA-uuL-AJsSx94bQ8oe9silbc7woQ/view?usp=sharing) For larger view, download and open via Acrobat.
+[View without interactivity as PDF](https://drive.google.com/file/d/1raiUA-uuL-AJsSx94bQ8oe9silbc7woQ/view?usp=sharing) (For larger view, download and open via Acrobat) <br>
 [Repo Link](https://github.com/mbluck/College-Dropout-Prediction)
 
 #### Work in progress: Futures Price Forecast
