@@ -32,7 +32,7 @@
 ## Data Analysis
 ### Traffic Stops Dashboard
 An interactive Tableau dashboard which shows demographic and location data in relation to the traffic stops conducted by San Francisco police. Reveals key differences in outcomes between different neighborhoods and different stop reasons. <br>
-[View project]([https://mavenanalytics.io/project/34135]) <br>
+[View project](https://mavenanalytics.io/project/34135) <br>
 
 ### Stocks by Sector Web App
 An interactive dashboard web app built with Plotly Dash that displays stock data aggregated across sectors. Quickly compare sectors against each other, an interface not available on Yahoo Finance. <br>
